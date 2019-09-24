@@ -77,10 +77,9 @@ You may be able to obtain PDF versions of these texts for low cost.
 
 Class notes will be posted 1-2 days after the lecture.
 
-There is a public GitHub repository containing additional code/demos
-discussed in the lecture:
+There is a Github organization for the class:
 
-[https://github.com/jrmcclurg/csci400](https://github.com/jrmcclurg/csci400)
+[https://github.com/mines-csci400](https://github.com/mines-csci400)
 
 ## Grading
 
