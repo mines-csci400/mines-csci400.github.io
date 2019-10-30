@@ -11,7 +11,7 @@ CSCI-400 Programming Languages, Fall 2019
 
 - Contact: mcclurg (at) mines (dot) edu
 - Office: Brown Hall 280C
-- Office Hours: Tue Thu 10am-11am, Wed 11am-12pm
+- Office Hours: Tue Thu 9:30am-11am
 
 ## Teaching Assistant (TA)
 
