@@ -3,6 +3,8 @@ Syllabi
 
 | Session                                                     | Instructor                                              |
 |-------------------------------------------------------------|---------------------------------------------------------|
+| [Fall 2023 (Section A)](https://lambda.mines.edu/f23-syllabus/)  | [Tolga Can](https://cs.mines.edu/project/can-tolga/)   |
+| [Fall 2023 (Section B)](https://lambda.mines.edu/f23-syllabus/)  | [Greg Davoll](https://www.linkedin.com/in/gregdavoll)   |
 | [Fall 2022 (Section A)](https://lambda.mines.edu/f22-syllabus/)  | [Amelia Read](https://cs.mines.edu/project/read-amelia/)   |
 | [Fall 2022 (Section B)](https://lambda.mines.edu/f22-syllabus/)  | [Sumner Evans](https://sumnerevans.com/)   |
 | [Spring 2022](https://inside.mines.edu/~ndantam/csci-400/syllabus.pdf) | [Neil Dantam](http://www.neil.dantam.name/) |
